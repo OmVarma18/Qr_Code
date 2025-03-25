@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <QRCodeGenerator />
-      <Form/>
+      {/* <Form/> */}
     </div>
   );
 }
